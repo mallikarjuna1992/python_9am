@@ -11,3 +11,4 @@ cur=conn.cursor()
 print(cur.execute('show tables'))
 print(cur.fetchone())
 conn.close()
+#this is my mysql file
